@@ -43,5 +43,5 @@ python train.py --case='case9241' --task='S4' --method='Powerformer'
 
 Please feel free to contact me via email (<chenkx@zju.edu.cn>, <davidluo@zju.edu.cn>, <liushunyu@zju.edu.cn>) if you are interested in my research :)
 
-Ablation study on China 300-bus system
+## Ablation study on China 300-bus system, we will provide in the revised version
 ![image](https://github.com/chenchkx/Powerformer/blob/main/China-300-ablation.jpg)
