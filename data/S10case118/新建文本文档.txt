@@ -1,0 +1,54 @@
+ssh://lw@10.214.211.106:22/home/lw/miniconda3/envs/RL/bin/python -u /home/lw/.pycharm_helpers/pydev/pydevconsole.py --mode=server
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/home/lw/RL_Qlearning', '/home/lw/RL_Qlearning'])
+Python 3.8.12 (default, Oct 12 2021, 13:49:34) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.28.0 -- An enhanced Interactive Python. Type '?' for help.
+runfile('/home/lw/RL_Qlearning/Final/multi_generator_10.py', wdir='/home/lw/RL_Qlearning/Final')
+PyDev console: using IPython 7.28.0
+Python 3.8.12 (default, Oct 12 2021, 13:49:34) 
+[GCC 7.5.0] on linux
+making data........
+section: [33, 0] generate successfully!
+average power is: 291.5851307296642
+num: 166 19
+section: [130, 128, 117, -1] generate successfully!
+average power is: 219.87549603123045
+num: 187 24
+section: [150, 151, 154, -1] generate successfully!
+average power is: 524.6067723441188
+num: 215 23
+section: [109, 110, 171, 9] generate successfully!
+average power is: 336.7872826243565
+num: 147 14
+section: [28, 97, 96, 7] generate successfully!
+average power is: 495.3511748994127
+num: 137 13
+section: [34, 1] generate successfully!
+average power is: 270.3954797032885
+num: 166 19
+section: [49, 28, 44, 41, -1] generate successfully!
+average power is: 664.4335166031318
+num: 146 14
+section: [90, -1] generate successfully!
+average power is: 302.5563104592805
+num: 166 18
+section: [54, 51, 52, 89, 28, -1] generate successfully!
+average power is: 668.3570938025334
+num: 146 12
+section: [100, 102, -1] generate successfully!
+average power is: 447.70267448427643
+num: 180 17
+1656
+173
+
+
+[28, 97, 96],
+[33],
+[130, 128, 117],
+[150, 151, 154],
+[109, 110, 171],
+[34],
+[49, 28, 44, 41],
+[90],
+[54, 51, 52, 89, 28]
