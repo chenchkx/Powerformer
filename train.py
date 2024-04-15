@@ -7,7 +7,7 @@ import pandapower.networks
 # print('Python %s on %s' % (sys.version, sys.platform))
 # sys.path.extend(['/home/lw/RL_Qlearning', '/home/lw/RL_Qlearning'])
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = "1"
+os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 import pprint
 import tianshou as ts
 import torch
